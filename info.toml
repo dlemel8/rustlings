@@ -311,7 +311,7 @@ hint = "No hints this time ;)"
 # TESTS
 
 [[exercises]]
-name = "tests1"
+name = "quiz1"
 path = "exercises/tests/tests1.rs"
 mode = "test"
 hint = """
